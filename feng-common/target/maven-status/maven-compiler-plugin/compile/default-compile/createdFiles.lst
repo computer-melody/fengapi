@@ -1,0 +1,11 @@
+com\yupi\fengapicommon\service\InnerUserService.class
+com\yupi\fengapicommon\model\entity\UserInterfaceInfo.class
+com\yupi\fengapicommon\model\vo\UserVO.class
+com\yupi\fengapicommon\service\InnerInterfaceInfoService.class
+com\yupi\fengapicommon\model\enums\UserRoleEnum.class
+com\yupi\fengapicommon\model\enums\InterfaceInfoStausEnum.class
+com\yupi\fengapicommon\model\enums\FileUploadBizEnum.class
+com\yupi\fengapicommon\model\vo\LoginUserVO.class
+com\yupi\fengapicommon\model\entity\InterfaceInfo.class
+com\yupi\fengapicommon\model\entity\User.class
+com\yupi\fengapicommon\service\InnerUserInterfaceInfoService.class
